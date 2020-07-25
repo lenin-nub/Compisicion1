@@ -1,0 +1,2 @@
+# Compisicion1
+INICIO
